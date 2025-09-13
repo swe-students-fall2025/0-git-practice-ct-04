@@ -6,3 +6,6 @@ AI can only truly serve as a **tool for developers** when they already know how 
 
 As the article pointed out:  
 > Productivity only "gains in one area" if "the whole development flows at the same speed."
+
+
+**Comment from plant445(Sean Tang)** I agree with Conor's take on the usage of AI tools by developers. There are many other aspects in software development for big tech besides simply writing code. For example, design documentation prior to building a piece of software often cannot be relied on AI to solve, but rather senior engineers, other team members, as well as leadership to understand how they want to drive a product and if it aligns with the tenets. However, engineers can definitely speed up the development process when it comes to more mundane tasks such as unit-testing or simple front-end changes.
